@@ -1,3 +1,3 @@
 # data-470-capstone
 
-Capstone project currently in progress.
+This repository holds the pdf file of my written report and .ipynb file of my capstone project. 
